@@ -1,0 +1,11 @@
+@theme "dracula.rasi"
+
+configuration {
+	font: "CommitMono Nerd Font 12";
+	terminal: "kitty";
+}
+
+window {
+    border:     0;
+    width:      15%;
+}

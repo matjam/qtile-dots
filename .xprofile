@@ -1,0 +1,9 @@
+#!/usr/bin/bash
+
+autorandr -l default
+picom -b
+smoothpaper -b
+xscreensaver --no-splash &
+flameshot &
+
+export VCPKG_ROOT=~/.local/share/vcpkg
