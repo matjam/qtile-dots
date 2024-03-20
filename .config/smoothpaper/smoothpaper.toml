@@ -28,7 +28,7 @@ scale_mode = "horizontal"
 fade_speed = 1.0
 
 # the delay between images, in seconds. Must be an integer.
-delay = 30
+delay = 300
 
 # SFML's window redraw framerate limit. This is the maximum number of frames per second 
 # the window will redraw at. Higher numbers will be smoother, but will use more CPU during
